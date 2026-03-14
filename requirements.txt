@@ -1,7 +1,0 @@
-Flask
-requests
-beautifulsoup4
-cloudscraper
-brotli
-python-socketio[client]
-websocket-client
